@@ -1,6 +1,3 @@
-//const { it } = require("mocha");
-
-//const { some } = require("cypress/types/bluebird");
 
 it('sem testes ainda', () => {})
 

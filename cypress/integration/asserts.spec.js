@@ -1,14 +1,4 @@
-/// reference type="Cypress" />
-
-//const { it } = require("mocha");
-//const { it } = require("mocha");
-//const { it } = require("mocha");
-//const { it } = require("mocha");
-//const { it } = require("mocha");
-//const { expectation } = require("cypress/types/sinon");
-//const { expectation } = require("cypress/types/sinon");
-//const { it } = require("mocha");
-//const { it } = require("mocha");
+/// <reference types="cypress" />
 
 it('Equality', () => {
     const a = 1;

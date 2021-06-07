@@ -1,8 +1,5 @@
-/// reference type="Cypress" />
+/// <reference types="cypress" />
 
-//const { describe } = require("mocha")
-//const { describe } = require("mocha")
-//const { it } = require("mocha");
 
 it('A external test...', () => {
 

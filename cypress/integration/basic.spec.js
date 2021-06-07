@@ -1,8 +1,5 @@
-/// reference type="Cypress" />
+/// <reference types="cypress" />
 
-//const { it } = require("mocha")
-//const { assert } = require("cypress/types/sinon")
-//const { describe } = require("mocha");
 
 describe('Cypress basics', () => {
     it.only('Should visit a page and assert title', () => {

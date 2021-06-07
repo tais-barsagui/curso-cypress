@@ -1,6 +1,5 @@
-/// reference type="Cypress" />
+/// <reference types="cypress" />
 
-//const { describe } = require("mocha");
 
 describe('Work with basic elements', () => {
     before(() => {

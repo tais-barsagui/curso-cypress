@@ -1,6 +1,5 @@
-/// reference type="Cypress" />
+/// <reference types="cypress" />
 
-//const { resolve } = require("cypress/types/bluebird")
 
 describe('Helpers...', () => {
     it('Wrap', () => {

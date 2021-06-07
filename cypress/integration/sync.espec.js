@@ -1,4 +1,4 @@
-/// reference type="Cypress" />
+/// <reference types="cypress" />
 
 describe('Esperas...', () => {
     
