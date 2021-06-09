@@ -6,12 +6,13 @@ import '../../support/commandsContas'
 
 describe('Testes no site Barriga React', () => {
     before(() => {
-        cy.login('dallocatais@gmail.com', 'Tadalloca25')
+             
+        cy.login('dallocatais@gmail.com', 'senha errada')
     })
 
     beforeEach(() => {
         cy.get(loc.MENU.HOME).click
-        cy.resetApp()
+        //cy.resetApp()
     })
 
     it('Inserir conta', () => {
